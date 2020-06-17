@@ -20,6 +20,7 @@ library(rms)      # <--
 library(plm)      # <-- 
 library(lmtest)   # <-- 
 library(gvlma)    # <-- 
+library(dplyr)    # <-- 
 
 # Handy "robust" summary function for lm:
 
